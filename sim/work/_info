@@ -1,0 +1,165 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/pca9555/sim
+vi2c_front_end
+Z1 !s110 1794196695
+!i10b 1
+!s100 =:fNoLRUfmY;hRE_b<``G0
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IL@E4GPF1o^CI?f0j5Qhj=3
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z4 w1791990795
+8D:/pca9555/rtl/i2c_front_end.v
+FD:/pca9555/rtl/i2c_front_end.v
+!i122 0
+L0 7 35
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1794196695.000000
+Z7 !s107 D:/pca9555/rtl/reg_file.v|D:/pca9555/rtl/pca9555.v|D:/pca9555/rtl/io_ports.v|D:/pca9555/rtl/int_logic.v|D:/pca9555/rtl/i2c_slave.v|D:/pca9555/rtl/i2c_front_end.v|
+Z8 !s90 -reportprogress|300|D:/pca9555/rtl/i2c_front_end.v|D:/pca9555/rtl/i2c_slave.v|D:/pca9555/rtl/int_logic.v|D:/pca9555/rtl/io_ports.v|D:/pca9555/rtl/pca9555.v|D:/pca9555/rtl/reg_file.v|
+!i113 1
+Z9 tCvgOpt 0
+vi2c_slave
+R1
+!i10b 1
+!s100 72UXMgHio^h3l7Mjg=O[h3
+R2
+Io8ODGz9ik6HF=efz7f8CT3
+R3
+R0
+R4
+8D:/pca9555/rtl/i2c_slave.v
+FD:/pca9555/rtl/i2c_slave.v
+!i122 0
+L0 11 171
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 1
+R9
+vint_logic
+R1
+!i10b 1
+!s100 K7@AGO_o^Ll5gU>J5AkPY1
+R2
+I;:3kRA_H72Q5:zW`@6CU60
+R3
+R0
+R4
+8D:/pca9555/rtl/int_logic.v
+FD:/pca9555/rtl/int_logic.v
+!i122 0
+L0 8 31
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 1
+R9
+vio_ports
+R1
+!i10b 1
+!s100 8gHYZWbZ;eDFcW3]0;KHD1
+R2
+IYJ[IYI`5lY0]I5QXK=8K?0
+R3
+R0
+R4
+8D:/pca9555/rtl/io_ports.v
+FD:/pca9555/rtl/io_ports.v
+!i122 0
+L0 7 27
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 1
+R9
+vpca9555
+R1
+!i10b 1
+!s100 e>?<;;6fgKSNQ=Ue6d;Ig2
+R2
+I0FD[R420h_aQ5c[KD;WDF0
+R3
+R0
+R4
+8D:/pca9555/rtl/pca9555.v
+FD:/pca9555/rtl/pca9555.v
+!i122 0
+L0 12 61
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 1
+R9
+vreg_file
+R1
+!i10b 1
+!s100 a8XzE@DhSmB;NI?E3CkPb2
+R2
+IfN@eY@VHK?Z9RPIfP;fKJ3
+R3
+R0
+R4
+8D:/pca9555/rtl/reg_file.v
+FD:/pca9555/rtl/reg_file.v
+!i122 0
+L0 9 52
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 1
+R9
+vtb_pca9555
+!s110 1794196705
+!i10b 1
+!s100 SHj6QiNK?M]z:am7W4?CV2
+R2
+IPZ_7_Gg:n?=J?nCZWQiIU1
+R3
+R0
+R4
+8D:/pca9555/tb/tb_pca9555.v
+FD:/pca9555/tb/tb_pca9555.v
+!i122 1
+L0 10 425
+R5
+r1
+!s85 0
+31
+!s108 1794196705.000000
+!s107 D:/pca9555/tb/tb_pca9555.v|
+!s90 -reportprogress|300|D:/pca9555/tb/tb_pca9555.v|
+!i113 1
+R9
